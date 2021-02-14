@@ -52,4 +52,3 @@ for (var i=0; i<questions.length; i++) {
 }
 
 console.log("You SCORED: ", score);
-console.log("Feel free to mail me similar ques at paludhwani@gmail.com ");
